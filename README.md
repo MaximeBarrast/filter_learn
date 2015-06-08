@@ -1,4 +1,4 @@
-/**
+ *
  * Filter Learn Driver for Markasjunk2 plugin for Roundcube
  *
  * Plugin drivers that adds a client-side e-mail filtering to the MarkasJunk2 button. 
@@ -8,7 +8,7 @@
  * @version 1.0
  * @author Maxime Barrast <maximebarrast@free.fr>
  *
- */
+ *
 
 BEFORE you install this drivers you need:
 
@@ -17,6 +17,7 @@ BEFORE you install this drivers you need:
 2- Filters plugin byRoberto Zarrelli installed ( https://github.com/eagle00789/RC_Filters )
 
 To install the plugin you have to:
+
 1- Download zip-archive;
 
 2- Unzip downloaded zip-archive;  
